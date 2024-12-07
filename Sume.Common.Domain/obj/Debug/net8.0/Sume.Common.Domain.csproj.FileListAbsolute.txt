@@ -1,0 +1,12 @@
+E:\Files\Rider\Sume\Sume.Common.Domain\bin\Debug\net8.0\Sume.Common.Domain.deps.json
+E:\Files\Rider\Sume\Sume.Common.Domain\bin\Debug\net8.0\Sume.Common.Domain.dll
+E:\Files\Rider\Sume\Sume.Common.Domain\bin\Debug\net8.0\Sume.Common.Domain.pdb
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.AssemblyInfoInputs.cache
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.AssemblyInfo.cs
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.csproj.CoreCompileInputs.cache
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.sourcelink.json
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.dll
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\refint\Sume.Common.Domain.dll
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\Sume.Common.Domain.pdb
+E:\Files\Rider\Sume\Sume.Common.Domain\obj\Debug\net8.0\ref\Sume.Common.Domain.dll

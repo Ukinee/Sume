@@ -1,0 +1,13 @@
+E:\Files\Rider\Sume\Core\bin\Debug\net8.0\Core.deps.json
+E:\Files\Rider\Sume\Core\bin\Debug\net8.0\Core.dll
+E:\Files\Rider\Sume\Core\bin\Debug\net8.0\Core.pdb
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.dll
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\refint\Core.dll
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\Core.pdb
+E:\Files\Rider\Sume\Core\obj\Debug\net8.0\ref\Core.dll
