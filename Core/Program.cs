@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.VectorData;
+using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.Memory;
 
 namespace Core
@@ -7,7 +8,11 @@ namespace Core
     {
         public static void Main(string[] args)
         {
-            IVectorStore vectorStore = null;
+            // IVectorStore vectorStore = null;
+
+            IKernelBuilder builder = Kernel.CreateBuilder();
+
+            builder.ConfigureServices();
         }
     }
 }
