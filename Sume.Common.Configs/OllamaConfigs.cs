@@ -19,7 +19,7 @@ namespace Sume.Common.Configs
         
         public static OllamaApiClient.Configuration EmbeddingConfig => new OllamaApiClient.Configuration()
         {
-            Model = GenerationModel,
+            Model = EmbeddingModel,
             Uri = OllamaUri,
         };
         
@@ -35,6 +35,6 @@ namespace Sume.Common.Configs
             ExtensionData = null,
         };
         
-        private static Uri OllamaUri => new Uri("http://127.0.0.1:11434");
+        private static Uri OllamaUri => new Uri(ConnectionString);
     }
 }
