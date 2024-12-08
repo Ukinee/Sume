@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Jabba.Ai.Generation" Version="1.0.0" />
       <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="9.0.0" />
       <PackageReference Include="Microsoft.Bcl.HashCode" Version="6.0.0" />
       <PackageReference Include="Microsoft.Extensions.AI" Version="9.0.1-preview.1.24570.5" />
@@ -24,6 +25,10 @@
       <PackageReference Include="System.Numerics.Tensors" Version="9.0.0" />
       <PackageReference Include="System.Text.Json" Version="9.0.0" />
       <PackageReference Include="System.Threading.Channels" Version="9.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Sume.Common.Configs\Sume.Common.Configs.csproj" />
     </ItemGroup>
 
 </Project>

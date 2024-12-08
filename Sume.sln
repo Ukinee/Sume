@@ -6,40 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sume.Common.Domain", "Sume.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sume.Common.Configs", "Sume.Common.Configs\Sume.Common.Configs.csproj", "{102F65F8-7C2E-4035-8253-9EE3EC3903B2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Submodules", "Submodules", "{ADDD501E-504D-4BAC-8B73-FF05BA11EFBB}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jabba", "Jabba", "{5E169CFB-FA2D-4667-8FE1-2CBE1919D028}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ai", "Ai", "{BBFEA084-484F-4051-9D45-9C62049D6716}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generation", "Generation", "{413DC413-5013-4A55-A6A9-7592B50092DB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Setup", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Setup\Jabba.Ai.Generation.Setup.csproj", "{D7CC9647-3B9F-4A33-BDF3-8CDC6186C708}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Builders", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Builders\Jabba.Ai.Generation.Builders.csproj", "{C0B48EAA-B561-46EC-AC91-2D14A333E3A7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.TaskProviders.Abstractions", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.TaskProviders.Abstractions\Jabba.Ai.Generation.TaskProviders.Abstractions.csproj", "{E1E6F35A-0176-4D52-A655-605564068CC0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Services.Implementations", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Services.Implementations\Jabba.Ai.Generation.Services.Implementations.csproj", "{50BBECDE-26B4-4D8C-9FB4-0E0687094A4D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Domain", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Domain\Jabba.Ai.Generation.Domain.csproj", "{6FF7C4DE-9D72-4E46-ABDA-71E101638529}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.TaskProviders.Implementations", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.TaskProviders.Implementations\Jabba.Ai.Generation.TaskProviders.Implementations.csproj", "{8324F1C1-92F1-4531-8F4E-D20BE7432FC0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Common", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Common\Jabba.Ai.Generation.Common.csproj", "{A9C7C6EE-7434-472A-8BD4-725EE934ABE2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Handlers.Implementations", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Handlers.Implementations\Jabba.Ai.Generation.Handlers.Implementations.csproj", "{7C205331-79CC-4F9C-85F5-5439100B98BF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Ai.Generation.Services.Abstractions", "Submodules\Jabba.Ai.Generation\Jabba.Ai.Generation.Services.Abstractions\Jabba.Ai.Generation.Services.Abstractions.csproj", "{E7E147CD-6C4F-4D5E-822B-AF008400A08B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{1BFD3277-67CD-4A57-A94E-A5C47CC75F68}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Complex.LongOperations.Implementations", "Submodules\Jabba.Utilities\Jabba.Complex.LongOperations.Implementations\Jabba.Complex.LongOperations.Implementations.csproj", "{8ED30B54-52EF-4C05-94B9-2DF5F8A4439B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Complex.LongOperations.Abstractions", "Submodules\Jabba.Utilities\Jabba.Complex.LongOperations.Abstractions\Jabba.Complex.LongOperations.Abstractions.csproj", "{37A80E68-B51E-4DD2-BEC0-56EB50B13CE4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabba.Common", "Submodules\Jabba.Utilities\Jabba.Common\Jabba.Common.csproj", "{6B320340-B52D-483D-8EC5-5F58B01909B0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,71 +24,7 @@ Global
 		{102F65F8-7C2E-4035-8253-9EE3EC3903B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{102F65F8-7C2E-4035-8253-9EE3EC3903B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{102F65F8-7C2E-4035-8253-9EE3EC3903B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7CC9647-3B9F-4A33-BDF3-8CDC6186C708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7CC9647-3B9F-4A33-BDF3-8CDC6186C708}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7CC9647-3B9F-4A33-BDF3-8CDC6186C708}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7CC9647-3B9F-4A33-BDF3-8CDC6186C708}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0B48EAA-B561-46EC-AC91-2D14A333E3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0B48EAA-B561-46EC-AC91-2D14A333E3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0B48EAA-B561-46EC-AC91-2D14A333E3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0B48EAA-B561-46EC-AC91-2D14A333E3A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E1E6F35A-0176-4D52-A655-605564068CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1E6F35A-0176-4D52-A655-605564068CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1E6F35A-0176-4D52-A655-605564068CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1E6F35A-0176-4D52-A655-605564068CC0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50BBECDE-26B4-4D8C-9FB4-0E0687094A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50BBECDE-26B4-4D8C-9FB4-0E0687094A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50BBECDE-26B4-4D8C-9FB4-0E0687094A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50BBECDE-26B4-4D8C-9FB4-0E0687094A4D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6FF7C4DE-9D72-4E46-ABDA-71E101638529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FF7C4DE-9D72-4E46-ABDA-71E101638529}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6FF7C4DE-9D72-4E46-ABDA-71E101638529}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FF7C4DE-9D72-4E46-ABDA-71E101638529}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8324F1C1-92F1-4531-8F4E-D20BE7432FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8324F1C1-92F1-4531-8F4E-D20BE7432FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8324F1C1-92F1-4531-8F4E-D20BE7432FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8324F1C1-92F1-4531-8F4E-D20BE7432FC0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9C7C6EE-7434-472A-8BD4-725EE934ABE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9C7C6EE-7434-472A-8BD4-725EE934ABE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9C7C6EE-7434-472A-8BD4-725EE934ABE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9C7C6EE-7434-472A-8BD4-725EE934ABE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C205331-79CC-4F9C-85F5-5439100B98BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C205331-79CC-4F9C-85F5-5439100B98BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C205331-79CC-4F9C-85F5-5439100B98BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C205331-79CC-4F9C-85F5-5439100B98BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E7E147CD-6C4F-4D5E-822B-AF008400A08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7E147CD-6C4F-4D5E-822B-AF008400A08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7E147CD-6C4F-4D5E-822B-AF008400A08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7E147CD-6C4F-4D5E-822B-AF008400A08B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8ED30B54-52EF-4C05-94B9-2DF5F8A4439B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8ED30B54-52EF-4C05-94B9-2DF5F8A4439B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8ED30B54-52EF-4C05-94B9-2DF5F8A4439B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8ED30B54-52EF-4C05-94B9-2DF5F8A4439B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37A80E68-B51E-4DD2-BEC0-56EB50B13CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37A80E68-B51E-4DD2-BEC0-56EB50B13CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37A80E68-B51E-4DD2-BEC0-56EB50B13CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37A80E68-B51E-4DD2-BEC0-56EB50B13CE4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B320340-B52D-483D-8EC5-5F58B01909B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B320340-B52D-483D-8EC5-5F58B01909B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B320340-B52D-483D-8EC5-5F58B01909B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B320340-B52D-483D-8EC5-5F58B01909B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5E169CFB-FA2D-4667-8FE1-2CBE1919D028} = {ADDD501E-504D-4BAC-8B73-FF05BA11EFBB}
-		{BBFEA084-484F-4051-9D45-9C62049D6716} = {5E169CFB-FA2D-4667-8FE1-2CBE1919D028}
-		{413DC413-5013-4A55-A6A9-7592B50092DB} = {BBFEA084-484F-4051-9D45-9C62049D6716}
-		{D7CC9647-3B9F-4A33-BDF3-8CDC6186C708} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{C0B48EAA-B561-46EC-AC91-2D14A333E3A7} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{E1E6F35A-0176-4D52-A655-605564068CC0} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{50BBECDE-26B4-4D8C-9FB4-0E0687094A4D} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{6FF7C4DE-9D72-4E46-ABDA-71E101638529} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{8324F1C1-92F1-4531-8F4E-D20BE7432FC0} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{A9C7C6EE-7434-472A-8BD4-725EE934ABE2} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{7C205331-79CC-4F9C-85F5-5439100B98BF} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{E7E147CD-6C4F-4D5E-822B-AF008400A08B} = {413DC413-5013-4A55-A6A9-7592B50092DB}
-		{1BFD3277-67CD-4A57-A94E-A5C47CC75F68} = {5E169CFB-FA2D-4667-8FE1-2CBE1919D028}
-		{8ED30B54-52EF-4C05-94B9-2DF5F8A4439B} = {1BFD3277-67CD-4A57-A94E-A5C47CC75F68}
-		{37A80E68-B51E-4DD2-BEC0-56EB50B13CE4} = {1BFD3277-67CD-4A57-A94E-A5C47CC75F68}
-		{6B320340-B52D-483D-8EC5-5F58B01909B0} = {1BFD3277-67CD-4A57-A94E-A5C47CC75F68}
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,0 @@
-[submodule "Submodules/Jabba.Ai.Generation"]
-	path = Submodules/Jabba.Ai.Generation
-	url = https://github.com/Ukinee/Jabba.Ai.Generation.git
-[submodule "Submodules/Jabba.Utilities"]
-	path = Submodules/Jabba.Utilities
-	url = https://github.com/Ukinee/Jabba.Utilities.git
